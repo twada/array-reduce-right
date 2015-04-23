@@ -1,7 +1,7 @@
 {
   "name": "array-reduce-right",
   "description": "Array#reduceRight ponyfill for older browsers",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": {
     "name": "Takuto Wada",
     "email": "takuto.wada@gmail.com",
