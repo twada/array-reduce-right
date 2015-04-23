@@ -1,0 +1,36 @@
+{
+  "name": "array-reduce-right",
+  "description": "Array#reduceRight ponyfill for older browsers",
+  "main": "build/array-reduce-right.js",
+  "license": "http://twada.mit-license.org/",
+  "ignore": [
+    "**/.*",
+    "index.js",
+    "package.json",
+    "test"
+  ],
+  "keywords": [
+    "array",
+    "browser",
+    "es5",
+    "ie6",
+    "ie7",
+    "ie8",
+    "polyfill",
+    "ponyfill",
+    "shim",
+    "reduceRight"
+  ],
+  "authors": [
+    {
+      "name": "Takuto Wada",
+      "email": "takuto.wada@gmail.com",
+      "homepage": "https://github.com/twada"
+    }
+  ],
+  "homepage": "https://github.com/twada/array-reduce-right",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/twada/array-reduce-right.git"
+  }
+}
