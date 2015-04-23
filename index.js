@@ -14,9 +14,9 @@
 var slice = Array.prototype.slice;
 
 module.exports = function reduceRight (ary, callback /*, initialValue*/) {
-    // if (ary.reduceRight) {
-    //     return ary.reduceRight.apply(ary, slice.apply(arguments).slice(1));
-    // }
+    if (ary.reduceRight) {
+        return ary.reduceRight.apply(ary, slice.apply(arguments).slice(1));
+    }
     if ('function' !== typeof callback) {
         throw new TypeError(callback + ' is not a function');
     }
