@@ -1,6 +1,13 @@
 array-reduce-right
 ================================
 
+[![Build Status][travis-image]][travis-url]
+[![NPM package][npm-image]][npm-url]
+[![Bower package][bower-image]][bower-url]
+[![Dependency Status][depstat-image]][depstat-url]
+[![License][license-image]][license-url]
+
+
 Array#reduceRight ponyfill for older browsers
 
 > Ponyfill: A polyfill that doesn't overwrite the native method
@@ -84,3 +91,18 @@ AUTHOR
 LICENSE
 ---------------------------------------
 Licensed under the [MIT](http://twada.mit-license.org/) license.
+
+[travis-url]: http://travis-ci.org/twada/array-reduce-right
+[travis-image]: https://secure.travis-ci.org/twada/array-reduce-right.svg?branch=master
+
+[npm-url]: https://npmjs.org/package/array-reduce-right
+[npm-image]: https://badge.fury.io/js/array-reduce-right.svg
+
+[bower-url]: http://badge.fury.io/bo/array-reduce-right
+[bower-image]: https://badge.fury.io/bo/array-reduce-right.svg
+
+[depstat-url]: https://gemnasium.com/twada/array-reduce-right
+[depstat-image]: https://gemnasium.com/twada/array-reduce-right.svg
+
+[license-url]: http://twada.mit-license.org/
+[license-image]: http://img.shields.io/badge/license-MIT-brightgreen.svg
