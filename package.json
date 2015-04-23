@@ -1,0 +1,47 @@
+{
+  "name": "array-reduce-right",
+  "description": "Array#reduceRight ponyfill for older browsers",
+  "version": "0.0.1",
+  "author": {
+    "name": "Takuto Wada",
+    "email": "takuto.wada@gmail.com",
+    "url": "https://github.com/twada"
+  },
+  "bugs": "https://github.com/twada/array-reduce-right/issues",
+  "devDependencies": {
+    "mocha": "^2.2.4"
+  },
+  "files": [
+    "README.md",
+    "index.js",
+    "build/array-reduce-right.js",
+    "package.json",
+    "test"
+  ],
+  "homepage": "https://github.com/twada/array-reduce-right",
+  "keywords": [
+    "array",
+    "browser",
+    "es5",
+    "ie6",
+    "ie7",
+    "ie8",
+    "polyfill",
+    "ponyfill",
+    "shim",
+    "reduceRight"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "http://twada.mit-license.org/"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/twada/array-reduce-right.git"
+  },
+  "scripts": {
+    "build": "browserify index.js --standalone reduceRight | dereserve | derequire > ./build/array-reduce-right.js",
+    "test": "mocha"
+  }
+}
