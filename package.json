@@ -13,6 +13,7 @@
   },
   "files": [
     "README.md",
+    "MIT-LICENSE",
     "index.js",
     "build/array-reduce-right.js",
     "package.json",
