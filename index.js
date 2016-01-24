@@ -7,7 +7,7 @@
  *
  * Copyright (c) 2015-2016 Takuto Wada
  * Licensed under the MIT license.
- *   https://github.com/twada/array-reduce-right/blob/master/MIT-LICENSE
+ *   https://github.com/twada/array-reduce-right/blob/master/LICENSE
  */
 'use strict';
 
