@@ -90,7 +90,7 @@ AUTHOR
 
 LICENSE
 ---------------------------------------
-Licensed under the [MIT](http://twada.mit-license.org/) license.
+Licensed under the [MIT](https://github.com/twada/array-reduce-right/blob/master/MIT-LICENSE) license.
 
 [travis-url]: http://travis-ci.org/twada/array-reduce-right
 [travis-image]: https://secure.travis-ci.org/twada/array-reduce-right.svg?branch=master
@@ -104,5 +104,5 @@ Licensed under the [MIT](http://twada.mit-license.org/) license.
 [depstat-url]: https://gemnasium.com/twada/array-reduce-right
 [depstat-image]: https://gemnasium.com/twada/array-reduce-right.svg
 
-[license-url]: http://twada.mit-license.org/
+[license-url]: https://github.com/twada/array-reduce-right/blob/master/MIT-LICENSE
 [license-image]: http://img.shields.io/badge/license-MIT-brightgreen.svg
