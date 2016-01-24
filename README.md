@@ -85,24 +85,24 @@ Use
 
 AUTHOR
 ---------------------------------------
-* [Takuto Wada](http://github.com/twada)
+* [Takuto Wada](https://github.com/twada)
 
 
 LICENSE
 ---------------------------------------
 Licensed under the [MIT](https://github.com/twada/array-reduce-right/blob/master/LICENSE) license.
 
-[travis-url]: http://travis-ci.org/twada/array-reduce-right
+[travis-url]: https://travis-ci.org/twada/array-reduce-right
 [travis-image]: https://secure.travis-ci.org/twada/array-reduce-right.svg?branch=master
 
 [npm-url]: https://npmjs.org/package/array-reduce-right
 [npm-image]: https://badge.fury.io/js/array-reduce-right.svg
 
-[bower-url]: http://badge.fury.io/bo/array-reduce-right
+[bower-url]: https://badge.fury.io/bo/array-reduce-right
 [bower-image]: https://badge.fury.io/bo/array-reduce-right.svg
 
 [depstat-url]: https://gemnasium.com/twada/array-reduce-right
 [depstat-image]: https://gemnasium.com/twada/array-reduce-right.svg
 
 [license-url]: https://github.com/twada/array-reduce-right/blob/master/LICENSE
-[license-image]: http://img.shields.io/badge/license-MIT-brightgreen.svg
+[license-image]: https://img.shields.io/badge/license-MIT-brightgreen.svg
