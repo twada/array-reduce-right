@@ -8,9 +8,7 @@ array-reduce-right
 [![License][license-image]][license-url]
 
 
-Array#reduceRight ponyfill for older browsers
-
-> Ponyfill: A polyfill that doesn't overwrite the native method
+Array#reduceRight [ponyfill](https://ponyfill.com) for older browsers
 
 
 DESCRIPTION
